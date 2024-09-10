@@ -1,0 +1,8 @@
+export const carIdSeed = 3;
+
+export const cars = 
+[
+    { id: 1, manufacturer: "Ford", model : "Capri", type: "Sports", quantity: 1 },
+    { id: 2, manufacturer: "Ford", model : "Granda", type: "Exec", quantity: 3 },
+    { id: 3, manufacturer: "Land Rover", model : "Range Rover", type: "4x4", quantity: 2 },
+];
